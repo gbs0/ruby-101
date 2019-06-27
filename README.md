@@ -1,8 +1,7 @@
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+<a href="http://fvcproductions.com"><img src="ruby-logo.png?v=3&s=200" title="Ruby logo" alt="Ruby logo"></a>
 
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
 
 # Le Wagon - Programação p/ Iniciantes 
 
